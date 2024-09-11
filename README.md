@@ -5,6 +5,9 @@ This project analyzes the performance of schools within a fictional district usi
 This analysis is part of the pandas-challenge Git repository. Within this repository, the analysis files can be found in the PyCitySchools folder. The folder contains the following key files:
 
 **PyCitySchools_starter.ipynb:** This Jupyter Notebook contains the full analysis, including data cleaning, calculations, and visualizations.
+
 **PyCitySchools_starter.py:** This Python script can be run as a standalone script to perform the same analysis without using a Jupyter environment.
+
 **PyCity_Schools_Analysis.docx:** This is a written report that summarizes the analysis, and draws two conclusions from the calculations.
-Supporting Resources: Additional data files required for the analysis are also included in this folder. 
+
+**Supporting Resources:** Additional data files required for the analysis are also included in this folder. 
