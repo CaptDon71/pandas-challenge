@@ -2,7 +2,7 @@
 This project analyzes the performance of schools within a fictional district using data processing and visualization techniques in Python. The analysis focuses on various metrics, including school type, budget, student scores in math and reading, and overall passing rates. The goal is to identify trends and draw insights about the factors influencing school performance.
 
 **Repository Structure**
-This analysis is part of the pandas-challenge Git repository. Within this repository, the analysis files can be found in the PyCitySchools folder. The folder contains the following key files:
+Within this repository the analysis files can be found in the PyCitySchools folder. The folder contains the following key files:
 
 **PyCitySchools_starter.ipynb:** This Jupyter Notebook contains the full analysis, including data cleaning, calculations, and visualizations.
 
